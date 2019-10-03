@@ -1,6 +1,6 @@
 {
   "name": "sebrae-react-scripts",
-  "version": "3.1.2",
+  "version": "1.0.2",
   "description": "Configuration and scripts for Sebrae Create React App.",
   "repository": {
     "type": "git",
@@ -117,8 +117,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "publishConfig": {
-    "registry": "https://nexus.sebrae.com.br/repository/npm-private/"
   }
 }
