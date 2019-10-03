@@ -1,0 +1,22 @@
+.add-btn {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button.disabled {
+  background: lightgray;
+  color: grey;
+  cursor: not-allowed;
+}
+
+input[type="text"] {
+  padding: 12px;
+  font-size: 16px;
+}

@@ -1,0 +1,10 @@
+{
+  "realm": "dev",
+  "auth-server-url": "https://amei.sebrae.com.br/auth",
+  "ssl-required": "external",
+  "resource": "arquitetura-corporativa",
+  "credentials": {
+    "secret": "7310cbf7-a651-4003-8de8-44c57113dc20"
+  },
+  "confidential-port": 0
+}
